@@ -14,10 +14,7 @@ const Socials = () => {
         >
           <FaInstagramSquare />
         </Link>
-        <Link
-          href="https://api.whatsapp.com/message/4WUK5UCQBSQZJ1?autoload=1&app_absent=0"
-          target="_blank"
-        >
+        <Link href="https://wa.me/+2348130812433" target="_blank">
           <FaWhatsappSquare />
         </Link>
         <Link href="mailto:abbeymonica01@gmail.com" target="_blank">

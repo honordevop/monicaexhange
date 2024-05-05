@@ -18,7 +18,7 @@ const message = {
   desc: "Our support team is on hand to take your queries and offer prompt resolutions to your tickets.",
   icon: <RiQuestionAnswerFill />,
   btnText: "Contact support on whatsapp",
-  url: "https://api.whatsapp.com/message/4WUK5UCQBSQZJ1?autoload=1&app_absent=0",
+  url: "https://wa.me/+2348130812433",
 };
 
 const mail = {

@@ -6,7 +6,7 @@ const WhatsApp = () => {
   return (
     <div className="cursor-pointer rounded-lg primaryBgColor maxWidth py-2 px-3">
       <Link
-        href="https://api.whatsapp.com/message/4WUK5UCQBSQZJ1?autoload=1&app_absent=0"
+        href="https://wa.me/+2348130812433"
         className="flex gap-2 items-center justify-center"
       >
         <IoLogoWhatsapp color="#47c756" className="text-4xl" />
