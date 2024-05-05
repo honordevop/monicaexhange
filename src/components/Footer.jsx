@@ -36,7 +36,6 @@ const Footer = () => {
               <p className="text-xl mb-1">Resources</p>
               <ul className="flex flex-col gap-1">
                 <Link href="/terms">Terms</Link>
-                <Link href="/faq">FAQS</Link>
                 <Link href="/privacy">Privacy</Link>
               </ul>
             </div>
