@@ -23,7 +23,7 @@ const Hero = () => {
       <div className="flex-1 ">
         <div className="relative w-full h-[40vh] md:h-full mt-[20px]">
           <Image
-            src="/heroImage3.png"
+            src="/idan.png"
             alt="hero image"
             priority
             fill

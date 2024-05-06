@@ -4,6 +4,7 @@ import React from "react";
 import { BsFillPatchQuestionFill } from "react-icons/bs";
 import { RiQuestionAnswerFill } from "react-icons/ri";
 import { MdAttachEmail } from "react-icons/md";
+import ContactBanner from "@/components/ContactBanner";
 
 const question = {
   title: "Have a question?",
@@ -41,6 +42,7 @@ const Contact = () => {
         <ContactCard data={mail} />
         <ContactCard data={question} />
       </div>
+      <ContactBanner />
     </div>
   );
 };

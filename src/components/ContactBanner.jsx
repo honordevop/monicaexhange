@@ -1,14 +1,15 @@
+"use client";
 import Image from "next/image";
 import React from "react";
 
-const Banner = () => {
+const ContactBanner = () => {
   return (
-    <div className="w-full py-28 flex flex-col items-center justify-center ">
+    <div className="w-full pt-16 pb-28 flex flex-col items-center justify-center ">
       <div className="container h-max ">
-        <div className="flex flex-col md:flex-row-reverse items-center justify-center gap-5 w-full h-[100vh] md:h-[50vh] rounded relative">
-          <div className="flex-1 h-[50vh] w-full relative md:h-full glass">
+        <div className="flex flex-col md:flex-row items-center justify-center gap-5 w-full h-[100vh] md:h-[50vh] rounded relative">
+          <div className="flex-1 h-[50vh] w-full relative md:h-full glass slide">
             <Image
-              src="/happycustomer.png"
+              src="/contactBannerImage.png"
               alt="happy customer's image"
               fill={true}
               priority
@@ -37,4 +38,4 @@ const Banner = () => {
   );
 };
 
-export default Banner;
+export default ContactBanner;

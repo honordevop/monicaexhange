@@ -5,10 +5,10 @@ const ComfortTrade = () => {
   return (
     <div className="w-full my-24 flex flex-col items-center justify-center">
       <div className="container h-max">
-        <div className="flex flex-col md:flex-row items-center justify-center gap-5 w-full bg-[#140b74] h-[100vh] md:h-[55vh]">
+        <div className="flex flex-col md:flex-row items-center justify-center md:gap-5 w-full bg-[#140b74] h-[100vh] md:h-[55vh]">
           <div className="flex-1 h-full w-full relative md:h-full">
             <Image
-              src="/exchanges.png"
+              src="/holdinglaptop.png"
               alt="exchange hand image"
               fill={true}
               priority

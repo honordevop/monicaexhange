@@ -18,7 +18,7 @@ const BigMove = () => {
         <div className="flex flex-col md:flex-row-reverse items-center justify-center gap-5 w-full h-[100vh] md:h-[50vh] rounded relative">
           <div className="flex-1 h-[50vh] w-full relative md:h-full glass">
             <Image
-              src="/idan.png"
+              src="/bannerImage.png"
               alt="happy customer's image"
               fill={true}
               priority
