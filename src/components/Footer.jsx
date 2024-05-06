@@ -45,7 +45,7 @@ const Footer = () => {
               <ul className="flex flex-col gap-2">
                 <li className="flex gap-5 items-center">
                   <IoLocationSharp className="text-2xl" />{" "}
-                  <p> Lagos, Nigeria</p>
+                  <p> Asaba, Delta State.</p>
                 </li>
                 <li className="flex gap-5 items-center">
                   <MdPermPhoneMsg className="text-2xl" />
