@@ -180,13 +180,13 @@ export const testimonials = [
     name: "John, Ng",
     role: "",
     testimony:
-      "When it comes to the speed of transactions unic xchange is the fastest, they pay immediately, in fact, I think Their payment bis automated.",
+      "When it comes to the speed of transactions Monica Xchng Global is the fastest, they pay immediately, in fact, I think Their payment bis automated.",
   },
   {
     name: "Sophie Anusike",
     role: "Makeup Artist , Nig",
     testimony:
-      "Whenever I see a thing I like on eBay, I do not bother about the restrictions on the naira debit card, I just use the unic xchange app to get an eBay gift card and pay for my item, so smooth and easy.",
+      "Whenever I see a thing I like on eBay, I do not bother about the restrictions on the naira debit card, I just use the Monica Xchng Global app to get an eBay gift card and pay for my item, so smooth and easy.",
   },
   {
     name: "Peter",
