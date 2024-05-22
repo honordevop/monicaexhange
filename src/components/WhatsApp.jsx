@@ -5,7 +5,8 @@ import { IoLogoWhatsapp } from "react-icons/io";
 const WhatsApp = () => {
   return (
     <div className="cursor-pointer rounded-lg primaryBgColor maxWidth py-2 px-3">
-      <Link
+      <Link  target="_blank"
+      rel="noopener noreferrer"
         href="https://wa.me/+2348130812433"
         className="flex gap-2 items-center justify-center"
       >
